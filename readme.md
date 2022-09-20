@@ -107,22 +107,22 @@ set(text_h, 'FontSize', 22);
 
 参考：
 
-https://www.cnblogs.com/yanjy-onlyone/p/13435821.html
+[python绘制箱线图 - The-Chosen-One - 博客园](https://www.cnblogs.com/yanjy-onlyone/p/13435821.html)
 
-https://www.jb51.net/article/173621.htm
+[Python数据可视化：箱线图多种库画法\_pytho](https://www.jb51.net/article/173621.htm)
 
-****  https://blog.csdn.net/shulixu/article/details/86551482
+[Box plot (箱线图) 解读以及Python实现\_boxplot python](https://blog.csdn.net/shulixu/article/details/86551482)
 
-**** https://www.jianshu.com/p/b2f70f867a4a
+[Python-matplotlib统计图之箱线图漫谈 - 简书](https://www.jianshu.com/p/b2f70f867a4a)
 
-*** https://zhuanlan.zhihu.com/p/321910805
+[箱型图Python绘制 - 知乎](https://zhuanlan.zhihu.com/p/321910805)
 
-*** https://blog.csdn.net/weixin_40683253/article/details/87857194
+[ Matplotlib - 箱线图、箱型图 boxplot () 所有用法详解](https://blog.csdn.net/weixin_40683253/article/details/87857194)
 
-设置箱体颜色：https://stackoverflow.com/questions/20289091/python-matplotlib-filled-boxplots
+[设置箱体颜色 python matplotlib filled boxplots - Stack Overflow](https://stackoverflow.com/questions/20289091/python-matplotlib-filled-boxplots)
 
-matlab坐标文字大小：https://codeantenna.com/a/27PYLrUn1W
+[matlab横坐标轴设置,Matlab箱线图Boxplot横坐标x轴设置 - CodeAntenna](https://codeantenna.com/a/27PYLrUn1W)
 
-matlab画盒图（箱线图）如何不显示异常值：https://blog.csdn.net/summer15407901/article/details/107715646
+[matlab画盒图（箱线图）如何不显示异常值](https://blog.csdn.net/summer15407901/article/details/107715646)
 
-boxplot，调整x轴的label字体大小方法：https://icode.best/i/44394140275322
+[matlab boxplot 字体大小,MATLAB boxplot 字体位置调整以及图片保存问题-爱代码爱编程](https://icode.best/i/44394140275322)
