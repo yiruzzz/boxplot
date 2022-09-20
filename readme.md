@@ -104,3 +104,20 @@ set(text_h, 'FontSize', 22);
 % ylabel('Aspect Ratio');
 ```
 其中`'symbol', ''`可以使得异常点不显示
+
+参考：
+
+https://www.cnblogs.com/yanjy-onlyone/p/13435821.html
+
+https://www.jb51.net/article/173621.htm
+
+****  https://blog.csdn.net/shulixu/article/details/86551482
+
+**** https://www.jianshu.com/p/b2f70f867a4a
+
+*** https://zhuanlan.zhihu.com/p/321910805
+
+*** https://blog.csdn.net/weixin_40683253/article/details/87857194
+
+设置箱体颜色：https://stackoverflow.com/questions/20289091/python-matplotlib-filled-boxplots
+
