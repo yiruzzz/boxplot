@@ -121,3 +121,8 @@ https://www.jb51.net/article/173621.htm
 
 设置箱体颜色：https://stackoverflow.com/questions/20289091/python-matplotlib-filled-boxplots
 
+matlab坐标文字大小：https://codeantenna.com/a/27PYLrUn1W
+
+matlab画盒图（箱线图）如何不显示异常值：https://blog.csdn.net/summer15407901/article/details/107715646
+
+boxplot，调整x轴的label字体大小方法：https://icode.best/i/44394140275322
